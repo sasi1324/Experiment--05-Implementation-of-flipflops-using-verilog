@@ -191,7 +191,21 @@ Once Waveform is created Right Click on the Input/Output Panel > " Insert Node o
 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
+
+
+
+
+
+
 Developed by:Sasinthara
+
+
+
+
+
+
+
+
 RegisterNumber:23005130  
 */
 
